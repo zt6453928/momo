@@ -2,7 +2,6 @@
 
 > 用背单词的方式背填空。
 
-[![许可证: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![前端: Vue.js](https://img.shields.io/badge/Frontend-Vue.js-4FC08D)](https://vuejs.org/)
 [![后端: Python/Flask](https://img.shields.io/badge/Backend-Python/Flask-3776AB)](https://flask.palletsprojects.com/)
 [![移动端: Capacitor](https://img.shields.io/badge/Mobile-Capacitor-119EFF)](https://capacitorjs.com/)
