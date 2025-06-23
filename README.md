@@ -112,7 +112,3 @@
 ## 👨‍💻 作者
 
 * **zt6453928** - [GitHub Profile](https://github.com/zt6453928)
-
-## 📜 许可证
-
-本项目采用 [MIT License](LICENSE) 开源。
